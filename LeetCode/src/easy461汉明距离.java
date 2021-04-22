@@ -4,7 +4,7 @@ public class easy461汉明距离 {
         int res = 0;
         while (XORInt != 0) {
             res += XORInt % 2;
-            XORInt /= 2;
+            XORInt = XORInt >> 1;
         }
         return res;
     }
