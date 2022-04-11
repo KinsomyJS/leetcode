@@ -98,6 +98,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="E:/leetcode-tmp/leetcode/editor/cn/[1302]层数最深叶子节点的和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="E:/leetcode-tmp/leetcode/editor/cn/doc/content/[1302]层数最深叶子节点的和.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1302" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="E:/leetcode-tmp/leetcode/editor/cn/[1302]层数最深叶子节点的和.java" />
+              <option name="titleSlug" value="deepest-leaves-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="E:/leetcode-tmp/leetcode/editor/cn/[130]被围绕的区域.java">
           <value>
             <LeetcodeEditor>
@@ -172,6 +183,17 @@
           <value>
             <LeetcodeEditor>
               <option name="path" value="E:/leetcode-tmp/leetcode/editor/cn/[143]重排链表.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="E:/leetcode-tmp/leetcode/editor/cn/[1448]统计二叉树中好节点的数目.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="E:/leetcode-tmp/leetcode/editor/cn/doc/content/[1448]统计二叉树中好节点的数目.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1448" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="E:/leetcode-tmp/leetcode/editor/cn/[1448]统计二叉树中好节点的数目.java" />
+              <option name="titleSlug" value="count-good-nodes-in-binary-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -490,6 +512,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="E:/leetcode-tmp/leetcode/editor/cn/[304]二维区域和检索 - 矩阵不可变.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="E:/leetcode-tmp/leetcode/editor/cn/doc/content/[304]二维区域和检索 - 矩阵不可变.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com304" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="E:/leetcode-tmp/leetcode/editor/cn/[304]二维区域和检索 - 矩阵不可变.java" />
+              <option name="titleSlug" value="range-sum-query-2d-immutable" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="E:/leetcode-tmp/leetcode/editor/cn/[306]累加数.java">
           <value>
             <LeetcodeEditor>
@@ -540,6 +573,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="E:/leetcode-tmp/leetcode/editor/cn/[357]统计各位数字都不同的数字个数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="E:/leetcode-tmp/leetcode/editor/cn/doc/content/[357]统计各位数字都不同的数字个数.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com357" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="E:/leetcode-tmp/leetcode/editor/cn/[357]统计各位数字都不同的数字个数.java" />
+              <option name="titleSlug" value="count-numbers-with-unique-digits" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="E:/leetcode-tmp/leetcode/editor/cn/[38]外观数列.java">
           <value>
             <LeetcodeEditor>
@@ -586,6 +630,17 @@
           <value>
             <LeetcodeEditor>
               <option name="path" value="E:/leetcode-tmp/leetcode/editor/cn/[4]寻找两个正序数组的中位数.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="E:/leetcode-tmp/leetcode/editor/cn/[50]Pow(x, n).java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="E:/leetcode-tmp/leetcode/editor/cn/doc/content/[50]Pow(x, n).md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com50" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="E:/leetcode-tmp/leetcode/editor/cn/[50]Pow(x, n).java" />
+              <option name="titleSlug" value="powx-n" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -753,6 +808,17 @@
           <value>
             <LeetcodeEditor>
               <option name="path" value="E:/leetcode-tmp/leetcode/editor/cn/[74]搜索二维矩阵.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="E:/leetcode-tmp/leetcode/editor/cn/[796]旋转字符串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="E:/leetcode-tmp/leetcode/editor/cn/doc/content/[796]旋转字符串.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com796" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="E:/leetcode-tmp/leetcode/editor/cn/[796]旋转字符串.java" />
+              <option name="titleSlug" value="rotate-string" />
             </LeetcodeEditor>
           </value>
         </entry>
