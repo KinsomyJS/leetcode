@@ -5,7 +5,7 @@ public class medium54螺旋矩阵 {
     public List<Integer> spiralOrder(int[][] matrix) {
         List<Integer> res = new ArrayList<>();
         int down = matrix.length - 1;
-        if(down < 0) {
+        if (down < 0) {
             return res;
         }
         int right = matrix[0].length - 1;
@@ -43,4 +43,5 @@ public class medium54螺旋矩阵 {
         }
         return res;
     }
+
 }
