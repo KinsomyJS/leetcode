@@ -1,37 +1,41 @@
+import java.util.List;
+
 public class medium61旋转链表 {
     public ListNode rotateRight(ListNode head, int k) {
-        if (k == 0 || head == null) {
-            return head;
+        if (head == null) {
+            return null;
         }
+        ListNode prev = new ListNode();
+        ListNode temp = head;
+        prev.next = temp;
         int len = 1;
-        ListNode node = head;
-        while (node.next != null) {
+        while (temp.next != null) {
             len++;
-            node = node.next;
+            temp = temp.next;
         }
+
         k = k % len;
-        if (k == 0 || len == 1) {
+        if (k == 0) {
             return head;
         }
-        int index = 1;
-        ListNode left = head;
-        ListNode right = null;
-        node = head;
-        do {
-            if (index == len - k) {
-                right = node.next;
-                head.next = null;
-                break;
-            }
-            index++;
-            node = node.next;
-            head = head.next;
-        } while (node.next != null);
-        ListNode res = right;
-        while (right.next != null) {
-            right = right.next;
+
+        temp.next = head;
+
+        temp = prev.next;
+
+        for (int i = 0; i < len - k; i++) {
+            temp = temp.next;
         }
-        right.next = left;
-        return res;
+
+        ListNode res = new ListNode();
+        res.next = temp;
+
+        for (int i = 0; i < len - 1; i++) {
+            temp = temp.next;
+        }
+        temp.next = null;
+        return res.next;
     }
 }
+
+// 1 2 3 4 5 1 2 3 4 5
